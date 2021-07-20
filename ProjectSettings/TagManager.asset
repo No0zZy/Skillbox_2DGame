@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  - Enemy
+  - EnemyFlip
+  - Trap
+  - Cutscene
+  - Death
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - OnGround
+  - Attack
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1155671189
+    locked: 0
+  - name: OnGround
+    uniqueID: 771216449
+    locked: 0
+  - name: Ground
+    uniqueID: 646213571
+    locked: 0
+  - name: Player
+    uniqueID: 2804354771
+    locked: 0
+  - name: UI
+    uniqueID: 3065460787
+    locked: 0
